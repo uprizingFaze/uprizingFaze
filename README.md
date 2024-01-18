@@ -62,7 +62,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,flask,django,nextjs,nodejs,spring,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,flask,django,nextjs,nodejs,spring" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql" />
   </a>
 </p>
 
