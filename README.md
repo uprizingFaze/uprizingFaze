@@ -62,7 +62,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,flask,django,nextjs,nodejs,spring,bash" />
+    <img src="https://skillicons.dev/icons?i=py,java,r,js,flask,django,nextjs,nodejs,spring,bash,powershell,terraform,vite" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,figma,jenkins" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,figma,jenkins,kubernetes,codepen,vin,discord,eclipse,githubactions,gitlab,bots" />
   </a>
 </p>
 
