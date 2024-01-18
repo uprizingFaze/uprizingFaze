@@ -90,7 +90,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,figma,jenkins,kubernetes,codepen,vin,discord,eclipse,githubactions,gitlab,bots" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,figma,jenkins,kubernetes,codepen,vim,discord,eclipse,githubactions,gitlab,bots" />
   </a>
 </p>
 
