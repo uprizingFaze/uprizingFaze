@@ -62,7 +62,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs,spring,flask,fastapi,express,nestjs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,flask,django,nextjs,nodejs,spring,fastapi,express,nestjs" />
   </a>
 </p>
 
