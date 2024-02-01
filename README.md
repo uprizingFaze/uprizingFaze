@@ -18,22 +18,22 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 Actualmente estoy trabajando en Transportes ERAP
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 Estoy aprendiendo Data Science en la actualidad.
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 Todos mis proyectos están disponibles en [uprizing workspace](https://uprizing.vercel.app)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Pregúntame sobre  **Java, Python, y NextJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 Cómo contactarme: **uprizing.faze@protonmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Conoce acerca de mis experiencia. [my experiences](https://uprizing.vercel.app)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Dato curioso: **Soy muy curioso**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate con migo</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
