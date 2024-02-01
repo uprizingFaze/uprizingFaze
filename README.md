@@ -48,21 +48,21 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql,sqlite" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,vercel,gcp,firebase,cloudflare" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,linux,postman,figma,githubactions,gitlab" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,linux,postman,idea,figma,githubactions,gitlab" />
   </a>
 </p>
 
