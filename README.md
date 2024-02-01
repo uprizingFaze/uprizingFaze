@@ -16,22 +16,6 @@
 
 <br>
 
-<br><br>
-
-- 🔭 Actualmente estoy trabajando en Transportes ERAP
-
-- 🌱 Estoy aprendiendo Data Science en la actualidad.
-
-- 👨‍💻 Todos mis proyectos están disponibles en [uprizing workspace](https://uprizing.vercel.app)
-
-- 💬 Pregúntame sobre  **Java, Python, y NextJS**
-
-- 📫 Cómo contactarme: **uprizing.faze@protonmail.com**
-
-- 📄 Conoce acerca de mis experiencia. [my experiences](https://uprizing.vercel.app)
-
-- ⚡ Dato curioso: **Soy muy curioso**
-
 <br>
 <h3 align="left">Conectate con migo</h3>
 <p align="left">
