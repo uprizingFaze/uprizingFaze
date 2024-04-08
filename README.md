@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5400F7&random=false&width=435&lines=Hey%2C+que+tal!+%F0%9F%91%8B;Soy+NIcolas+Vargas" alt="Typing SVG" /></a>
-<h3 align="center">BackEnd, DevOps, Cloud y Data</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=500&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=BackEnd%2C+DevOps%2C+Cloud+y+Data.)](https://git.io/typing-svg)
 <p align="center">Ingeniero de software y DevOps con más de dos años de experiencia especializado en el desarrollo backend. Apasionado por la creación de soluciones eficientes y escalables, he trabajado en diversos proyectos donde mi enfoque se centra en el diseño, implementación y mantenimiento de sistemas robustos. Mi trayectoria incluye la colaboración en equipos multidisciplinarios, donde he aplicado mis habilidades tanto en el desarrollo de software como en la gestión de infraestructuras mediante prácticas DevOps. Comprometido con la excelencia técnica, busco continuamente optimizar procesos y mejorar la calidad del software, contribuyendo así al éxito de los proyectos en los que participo.🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=uprizingfaze&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
