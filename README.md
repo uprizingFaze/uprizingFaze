@@ -47,12 +47,20 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=uprizingFaze\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
-
+    <div style="display: inline-block; width: 30%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=uprizingFaze&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="GitHub Stats">
+    </div>
+    <div style="display: inline-block; width: 30%;">
+        <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=uprizingFaze&theme=midnight-purple" alt="GitHub Streak">
+        </a>
+    </div>
+    <div style="display: inline-block; width: 30%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uprizingFaze&hide_progress=false" alt="Top Languages">
+    </div>
 </div>
+
+
 
 
 <h3 align="left">Activity:</h3>
