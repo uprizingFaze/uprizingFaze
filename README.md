@@ -45,25 +45,10 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-    <div style="display: inline-block; width: 30%;">
+
+<div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=uprizingFaze&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="GitHub Stats">
-    </div>
-    <div style="display: inline-block; width: 30%;">
-        <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=uprizingFaze&theme=midnight-purple" alt="GitHub Streak">
-        </a>
-    </div>
-    <div style="display: inline-block; width: 30%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uprizingFaze&hide_progress=false" alt="Top Languages">
-    </div>
 </div>
-
-
-
-
-<h3 align="left">Activity:</h3>
 
 ![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=uprizingFaze&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
