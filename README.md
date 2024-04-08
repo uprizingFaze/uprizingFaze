@@ -1,20 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=500&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=BackEnd%2C+DevOps%2C+Cloud+y+Data.)](https://git.io/typing-svg)
 
- <img src="https://komarev.com/ghpvc/?username=uprizingfaze&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
-
-<div align="center">
+<div align="left">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br>
-
-<br>
 <h3 align="left">Conectate con migo</h3>
 <p align="left">
 <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uprizing" height="30" width="40" /></a>
@@ -22,10 +14,7 @@
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://instagram.com/nicolas.faze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
-</p>
-<br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
@@ -73,9 +62,6 @@
 
 </div>
 
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Activity:</h3>
 
