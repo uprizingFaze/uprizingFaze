@@ -41,7 +41,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,linux,postman,idea,figma,githubactions,gitlab" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,linux,postman,figma,githubactions" />
   </a>
 </p>
 
