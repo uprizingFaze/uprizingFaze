@@ -20,7 +20,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwind" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,vercel,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,vercel,firebase" />
   </a>
 </p>
 
