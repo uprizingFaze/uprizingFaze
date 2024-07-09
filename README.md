@@ -4,6 +4,7 @@
 <p aling="left">Back-End, DevOps and Cloud. ◼️</p>
 <p aling="left">Software engineering student ◽️ </p>  
 <p aling="left">My hobby is Front-End development. I create web apps for fun. 🎧</p>
+<h4 aling="left">+2 years of solid experience in BackEnd and Cloud. +4 years developing.</h4>
 
 <h3 align="left">Stack</h3>
 
