@@ -21,10 +21,10 @@
   </a>
 </p>
 
-- Frontend
+- Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vercel,supabase,aws,azure" />
   </a>
 </p>
 
@@ -35,10 +35,10 @@
   </a>
 </p>
 
-- Cloud Servers
+- Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,supabase,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwind" />
   </a>
 </p>
 
@@ -49,8 +49,4 @@
   </a>
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uprizingFaze\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
