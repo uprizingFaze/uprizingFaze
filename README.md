@@ -10,7 +10,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,django,nodejs,jest" />
+    <img src="https://skillicons.dev/icons?i=py,java,ts,express,nodejs,django,jest" />
   </a>
 </p>
 
