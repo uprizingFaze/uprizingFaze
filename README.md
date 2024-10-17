@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- DevOps
+- Cloud technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
@@ -25,7 +25,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,supabase,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,vercel,supabase,azure" />
   </a>
 </p>
 
